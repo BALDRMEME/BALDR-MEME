@@ -1,2 +1,27 @@
-# BALDR WALTR WIT TOKEN
+TOKEN ADDRESS:
+
+TICKER: 
+BALDR
+
+DESCRIPTION
 BALDR The Troll Token  On Solana
+LONG NAME: BALDR WALTER WIT
+
+$BALDR - BANKRUPCY ALTERNATIVE LIQUID DOG RECOVERY
+
+TOKENOMICS:
+
+1 Billion IS FROZEN ON SBF ALAMEDA ACCOUNT to make him a (paper) billionnaire again
+
+1 Billion supply, same supply as DOG $WIF HAT
+
+
+
+
+
+
+
+
+
+
+
