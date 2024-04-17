@@ -1,7 +1,7 @@
-TOKEN ADDRESS:
+TOKEN ADDRESS: ErQPXRSDzmhZxghtmcHr4WHCLEZ5af2WS2MCXGk6n2VG
+TICKER: BALDR
+DECIMALS: 6
 
-TICKER: 
-BALDR
 
 DESCRIPTION
 BALDR The Troll Token  On Solana
@@ -13,7 +13,7 @@ TOKENOMICS:
 
 1 Billion IS FROZEN ON SBF ALAMEDA ACCOUNT to make him a (paper) billionnaire again
 
-1 Billion supply, same supply as DOG $WIF HAT
+1 Billion supply, same supply as DOG $WIF HAT 
 
 
 
