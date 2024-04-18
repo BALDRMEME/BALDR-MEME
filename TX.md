@@ -1,6 +1,6 @@
 <h1>BALDR Token</h1><hr/>
 
-<h4> Solana Explorer </h4>
+<h4> Solana Explorer 👀 </h4>
 <i>BALDR ($BALDR) token on <a href="https://solscan.io/token/5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpDS">Sol Solscan</a></i>
 <h4>FUNDING FTX SBF ALAMEDA COLD WALLET 💰</h4>
 
