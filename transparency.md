@@ -8,7 +8,22 @@ spl-token transfer 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpDS 1000000000 $SBF_
 spl-token transfer 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpDS 4 $SBF_ADDRESS --allow-unfunded-recipient  --fund-recipient 
 
 
-//FREEZING FTX ALAMEDA WALLET
+//FREEZING FTX ALAMEDA WALLET<br/>
 
 spl-token freeze  E9ZQF76U7Q2CSnaxPworBeuMXzkLg9vsSLy8WQid2X8s --freeze-authority BALDRi9SodAqaHfLec6fcAHe6xZe9z12ikideVBp5tEA
+
+
+
+
+// BALANCE
+
+spl-token balance 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpDS
+
+1,000,000,065 tokens 
+
+//TOTAL SUPPLY
+
+spl-token supply 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpD
+
+2,000,000,069
 
