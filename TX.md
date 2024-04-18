@@ -24,7 +24,7 @@ const SBF_ADDRESS="9uyDy9VDBw4K7xoSkhmCAm8NAFCwu4pkF6JeHUCtVKcX"
   </tr>
 </table>
 
-<h4> Total Frozen</h4>
+<h4> Total Frozen ❄️</h4>
 <table>
   <tr>
     <td>spl-token balance --address E9ZQF76U7Q2CSnaxPworBeuMXzkLg9vsSLy8WQid2X8s</td>
