@@ -9,7 +9,6 @@ spl-token transfer 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpDS 4 $SBF_ADDRESS -
 
 
 //FREEZING FTX ALAMEDA WALLET<br/>
-
 spl-token freeze  E9ZQF76U7Q2CSnaxPworBeuMXzkLg9vsSLy8WQid2X8s --freeze-authority BALDRi9SodAqaHfLec6fcAHe6xZe9z12ikideVBp5tEA
 
 
