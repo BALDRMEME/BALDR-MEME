@@ -14,14 +14,15 @@ spl-token freeze  E9ZQF76U7Q2CSnaxPworBeuMXzkLg9vsSLy8WQid2X8s --freeze-authorit
 
 
 
-
-<h4>// BALANCE </h4><hr/>
+<hr/>
+<h4>// BALANCE </h4>
 
 spl-token balance 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpDS
 
 1,000,000,065 tokens 
 
-<h4>//TOTAL SUPPLY</h4><hr/>
+<hr/>
+<h4>//TOTAL SUPPLY</h4>
 
 spl-token supply 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpD
 
