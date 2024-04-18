@@ -16,7 +16,7 @@ const SBF_ADDRESS="9uyDy9VDBw4K7xoSkhmCAm8NAFCwu4pkF6JeHUCtVKcX"
 
 
 
-<h4> Available Supply  </h4>
+<h4> Total Supply 🪙</h4>
 <table>
   <tr>
     <td>spl-token balance 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpDS</td>
@@ -31,9 +31,6 @@ const SBF_ADDRESS="9uyDy9VDBw4K7xoSkhmCAm8NAFCwu4pkF6JeHUCtVKcX"
     <td>1,000,000,004 tokens </td>
   </tr>
 </table>
-
-
-
 
 <h4>Total Minted</h4>
 <table>
