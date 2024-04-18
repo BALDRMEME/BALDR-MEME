@@ -16,11 +16,18 @@ spl-token freeze  E9ZQF76U7Q2CSnaxPworBeuMXzkLg9vsSLy8WQid2X8s --freeze-authorit
 <h4> Liquid supply  </h4>
 <table>
   <tr>
-    <td>spl-token balance 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpDS</td>
+    <code><td>spl-token balance 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpDS</td></code>
     <td>1,000,000,065 tokens </td>
   </tr>
 </table>
 
+<h4> Liquid supply  </h4>
+<table>
+  <tr>
+    <td>spl-token balance </td>
+    <td>1,000,000,065 tokens </td>
+  </tr>
+</table>
 
 
 
