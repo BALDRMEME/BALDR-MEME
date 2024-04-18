@@ -32,7 +32,7 @@ spl-token freeze  E9ZQF76U7Q2CSnaxPworBeuMXzkLg9vsSLy8WQid2X8s --freeze-authorit
 
 
 
-<h4>Total Supply</h4>
+<h4>Total Minted Supply</h4>
 <table>
   <tr>
     <td>spl-token supply 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpD</td><td>2,000,000,069 tokens</td>
