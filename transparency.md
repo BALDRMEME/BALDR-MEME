@@ -1,4 +1,7 @@
 <h1>BALDR TRANSPARENCY </h1><hr/>
+
+<h4> Solana Explorer </h4>
+BALDR ($BALDR) token on <a href="https://solscan.io/token/5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpDS">Sol Solscan</a> 
 <h4>FUNDING FTX SBF ALAMEDA WALLET COLD WALLET</h4>
 
 const SBF_ADDRESS="9uyDy9VDBw4K7xoSkhmCAm8NAFCwu4pkF6JeHUCtVKcX"
