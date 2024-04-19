@@ -4,11 +4,11 @@
 <i>BALDR ($BALDR) token on <a href="https://solscan.io/token/5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpDS">Sol Solscan</a></i>
 <h4>FUNDING FTX SBF ALAMEDA COLD WALLET </h4>
 
-const SBF_ADDRESS="9uyDy9VDBw4K7xoSkhmCAm8NAFCwu4pkF6JeHUCtVKcX"
+const SBF_FTX_ADDRESS="9uyDy9VDBw4K7xoSkhmCAm8NAFCwu4pkF6JeHUCtVKcX"
 
-<code>spl-token transfer 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpDS 1000000000 $SBF_ADDRESS  --fund-recipient</code>
+<code>spl-token transfer 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpDS 1000000000 $SBF_FTX_ADDRESS  --fund-recipient</code>
 
-<code>spl-token transfer 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpDS 4 $SBF_ADDRESS </code>
+<code>spl-token transfer 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpDS 4 $SBF_FTX_ADDRESS </code>
 
 <h4>FREEZING FTX ALAMEDA WALLET<br/></h4>
 
