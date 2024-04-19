@@ -30,7 +30,8 @@ at 10$ price tag FTX Bankrupcy is solved
 <h4> MASS ADOPTION, HOW TO MAKE IT REAL?</h4>
 
 * PRESALE TO GET RAYDIUM LIQUIDITY POOL 
-* Part of the supply will go to LIQUID STAKING
+* Part of the supply will go to LIQUID STAKING,
+  - you add liquidity to the pool you earn more
 * NO TAX on SWAP and Transfer
 * AIRDROP ON TWITTER
 * AIRDROP TO BONK HOLDERS
