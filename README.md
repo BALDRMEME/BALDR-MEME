@@ -1,7 +1,7 @@
 <h1>BALDR Troll Token</h1><hr/>
 
 <h4> Specs </h4>
-<code>
+<p>
 BALDR - BANKRUPCY ALTERNATIVE LIQUID DOG RECOVERY
 
 LONG NAME: BALDR Walter Wit
@@ -12,7 +12,7 @@ TICKER: BALDR
 
 DECIMALS: 6
 
-</code>
+</p>
 <h4> Specs </h4>
 
 
