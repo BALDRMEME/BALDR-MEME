@@ -2,7 +2,9 @@
 
 <h4> SPECS </h4>
 <p>
-BALDR - BALDR the Son of ODIN 
+BALDR 
+  The Son of ODIN and Frigg
+  Bankrupcy Alternative Liquid Dog Recovery
 
 TOKEN SYMBOL: $BALDR
 
@@ -14,13 +16,14 @@ DECIMALS: 6
 
 <h4> Description </h4>
 <p>
-Making Sam Bankman a paper billionnaire by sending to his wallet 1 billion and 4 tokens
-That he could never use because they are frozen.
+The only purpose of this coin is to send a middle finger at the face of all Crypto Grifters.
+  
+For example: Making Sam Bankman a paper billionnaire by sending to his wallet 1 billion and 4 tokens and definitively freeze it.
 
-For example, because $BALDR have the same supply than $WIF, 
+Because $BALDR have the same supply than $WIF, 
 
-at 1$ price tag Sam would be a billionnaire
-at 10$ price tag FTX Bankrupcy is solved
+at 1$ price tag Sam is a paper billionnaire.
+at 10$ price tag FTX Bankrupcy looks dumb.
 
 
 <h4>TOKENOMICS:</h4>
