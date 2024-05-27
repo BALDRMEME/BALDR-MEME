@@ -20,23 +20,15 @@ The only purpose of this coin is to send a middle finger at the face of the bigg
   
 Making Sam Bankman a paper billionnaire by allowing to his wallet 10 trillion and 4 tokens and definitively freeze it.
 
-Because $BALDR have the same supply than $WIF, 
+T<h4>TOKENOMICS:</h4>
+90% of the supply is frozen at FTX wallet
+1 Trillion criculating supply
 
-at 1$ price tag Sam is a paper billionnaire.
-at 10$ price tag FTX Bankrupcy looks dumb.
-
-
-<h4>TOKENOMICS:</h4>
-
-1 Billion supply, same supply as DOG $WIF HAT 
 
 <h4> MASS ADOPTION, HOW TO MAKE IT REAL?</h4>
-
-* PRESALE TO GET RAYDIUM LIQUIDITY POOL 
-* Part of the supply will go to LIQUID STAKING,
-  - you add liquidity to the pool you earn more
+* PART OF THE SUPPLY WILL BE ALLOWED TO LIQUIDITY PROVIDERS THROUGH STAKING ON RAYDIUM 
 * NO TAX on SWAP and Transfer
-* AIRDROP ON TWITTER
+* SOME AIRDROP ON TWITTER
 * AIRDROP TO BONK HOLDERS
 
 
