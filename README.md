@@ -21,7 +21,7 @@ The only purpose of this coin is to send a middle finger at the face of the bigg
 Making Sam Bankman a paper billionnaire by allowing to his wallet 10 trillion and 4 tokens and definitively freeze it.
 
 T<h4>TOKENOMICS:</h4>
-90% of the supply is frozen at FTX wallet
+90% of the supply is frozen at SBF FTX wallet
 1 Trillion criculating supply
 
 
