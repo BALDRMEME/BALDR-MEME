@@ -4,7 +4,7 @@
 <p>
 BALDR 
   The Son of ODIN and Frigg
-  Bankrupcy Alternative Liquid Dog Recovery
+  The Jacked WOJAK
 
 TOKEN SYMBOL: $BALDR
 
