@@ -6,7 +6,7 @@
 
 const SBF_FTX_ADDRESS="9uyDy9VDBw4K7xoSkhmCAm8NAFCwu4pkF6JeHUCtVKcX"
 
-<code>spl-token transfer 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpDS 1000000000 $SBF_FTX_ADDRESS  --fund-recipient</code>
+<code>spl-token transfer 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpDS 100000000000 $SBF_FTX_ADDRESS  --fund-recipient</code>
 
 <code>spl-token transfer 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpDS 4 $SBF_FTX_ADDRESS </code>
 
@@ -20,7 +20,7 @@ const SBF_FTX_ADDRESS="9uyDy9VDBw4K7xoSkhmCAm8NAFCwu4pkF6JeHUCtVKcX"
 <table>
   <tr>
     <td>spl-token balance 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpDS</td>
-    <td>1,000,000,065 tokens </td>
+    <td>2,000,000,000,069 tokens </td>
   </tr>
 </table>
 
@@ -28,14 +28,14 @@ const SBF_FTX_ADDRESS="9uyDy9VDBw4K7xoSkhmCAm8NAFCwu4pkF6JeHUCtVKcX"
 <table>
   <tr>
     <td>spl-token balance --address E9ZQF76U7Q2CSnaxPworBeuMXzkLg9vsSLy8WQid2X8s</td>
-    <td>1,000,000,004 tokens </td>
+    <td>1,000,000,000,004 tokens </td>
   </tr>
 </table>
 
 <h4>Total Minted 💱</h4>
 <table>
   <tr>
-    <td>spl-token supply 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpD</td><td>2,000,000,069 tokens</td>
+    <td>spl-token supply 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpD</td><td>2,000,000,000,069 tokens</td>
   </tr>
 </table>
 
