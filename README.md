@@ -16,9 +16,9 @@ DECIMALS: 6
 
 <h4> Description </h4>
 <p>
-The only purpose of this coin is to send a middle finger at the face of the biggest Crypto Grifters.
+The only purpose of this coin is to send a middle finger at the face of the biggest Crypto Grifters,
   
-For example: Making Sam Bankman a paper billionnaire by sending to his wallet 1 billion and 4 tokens and definitively freeze it.
+Making Sam Bankman a paper billionnaire by allowing to his wallet 10 trillion and 4 tokens and definitively freeze it.
 
 Because $BALDR have the same supply than $WIF, 
 
