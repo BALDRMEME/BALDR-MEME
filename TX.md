@@ -20,7 +20,7 @@ const SBF_FTX_ADDRESS="9uyDy9VDBw4K7xoSkhmCAm8NAFCwu4pkF6JeHUCtVKcX"
 <table>
   <tr>
     <td>spl-token balance 5HN5PWiQ5gTn4rQ2LZCxkbUtbyPZxoTw91yMfkuAWpDS</td>
-    <td>2,000,000,000,069 tokens </td>
+    <td>1,000,000,000,065 tokens </td>
   </tr>
 </table>
 
