@@ -3,7 +3,7 @@
 <h4> SPECS </h4>
 <p>
 BALDR 
-  The Son of ODIN and Frigg
+  The Son of ODIN and Frigg<br/>
   The Jacked WOJAK
 
 TOKEN SYMBOL: $BALDR
