@@ -12,7 +12,7 @@ const SBF_FTX_ADDRESS="9uyDy9VDBw4K7xoSkhmCAm8NAFCwu4pkF6JeHUCtVKcX"
 
 <h4>FREEZING FTX ALAMEDA WALLET<br/></h4>
 
-<code>spl-token freeze  E9ZQF76U7Q2CSnaxPworBeuMXzkLg9vsSLy8WQid2X8s --freeze-authority BALDRi9SodAqaHfLec6fcAHe6xZe9z12ikideVBp5tEA</code>
+<code>spl-token freeze SBF_ADDRESS --freeze-authority BALDRi9SodAqaHfLec6fcAHe6xZe9z12ikideVBp5tEA</code>
 
 
 
